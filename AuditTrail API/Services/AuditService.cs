@@ -30,7 +30,7 @@ namespace AuditTrail_API.Services
             };
         }
 
-        // --- Diff helpers ---
+     
         private static List<ChangeItem> ComputeDiff(JsonElement? before, JsonElement? after)
         {
             var list = new List<ChangeItem>();
@@ -168,7 +168,7 @@ namespace AuditTrail_API.Services
 
         private static bool JsonElementDeepEquals(JsonElement a, JsonElement b)
         {
-            // Compare via serialization (good enough for audit)
+            
             return a.ValueKind == b.ValueKind && a.ToString() == b.ToString();
         }
     }
