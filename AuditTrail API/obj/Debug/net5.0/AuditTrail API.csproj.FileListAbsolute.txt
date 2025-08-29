@@ -1,0 +1,51 @@
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\appsettings.json
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\AuditTrail API.exe
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\AuditTrail API.deps.json
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\AuditTrail API.runtimeconfig.json
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\AuditTrail API.runtimeconfig.dev.json
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\AuditTrail API.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\ref\AuditTrail API.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\AuditTrail API.pdb
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\AuditTrail API.Views.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\AuditTrail API.Views.pdb
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.csproj.AssemblyReference.cache
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.AssemblyInfoInputs.cache
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.AssemblyInfo.cs
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.csproj.CoreCompileInputs.cache
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.RazorAssemblyInfo.cache
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.RazorAssemblyInfo.cs
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\staticwebassets\AuditTrail API.StaticWebAssets.Manifest.cache
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\staticwebassets\AuditTrail API.StaticWebAssets.xml
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\scopedcss\bundle\AuditTrail API.styles.css
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.TagHelpers.input.cache
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.TagHelpers.output.cache
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.RazorCoreGenerate.cache
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.RazorTargetAssemblyInfo.cache
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.RazorTargetAssemblyInfo.cs
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.Views.pdb
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.csproj.CopyComplete
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\ref\AuditTrail API.dll
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.pdb
+C:\Users\CG-DTE\source\repos\AuditTrail API\AuditTrail API\obj\Debug\net5.0\AuditTrail API.genruntimeconfig.cache
