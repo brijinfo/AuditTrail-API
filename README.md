@@ -1,3 +1,6 @@
+**Audit Trail Web API built with .NET 5 that tracks changes in objects and keeps audit logs in memory (no database required).**
+
+
 Swagger UI will be available at:
 https://localhost:44306/swagger/index.html
 sample data for **https://localhost:44306/api/audit/compare** end point
