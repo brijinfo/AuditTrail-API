@@ -19,7 +19,7 @@ namespace AuditTrail_API
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
+       
         public void ConfigureServices(IServiceCollection services)
         {
            
@@ -30,9 +30,7 @@ namespace AuditTrail_API
        });
             services.AddSwaggerGen();
 
-            // Register DbContext
-    //        services.AddDbContext<AuditDbContext>(options =>
-    //options.UseSqlServer(Configuration.GetConnectionString("AuditDb")));
+          
 
             services.AddDbContext<AuditDbContext>(options =>
        options.UseInMemoryDatabase("AuditDb"));
@@ -42,7 +40,7 @@ namespace AuditTrail_API
             services.AddScoped<IAuditService, AuditService>();
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -56,7 +54,7 @@ namespace AuditTrail_API
             using (var scope = app.ApplicationServices.CreateScope())
             {
                 var db = scope.ServiceProvider.GetRequiredService<AuditDbContext>();
-               // db.Database.Migrate();
+              
             }
 
             app.UseRouting();
